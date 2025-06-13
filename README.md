@@ -58,7 +58,7 @@ notebooks/datasets
 Execute o comando para iniciar os containers descritos no docker-compose.yml.
 
 ```
-docker-compose up
+docker compose up
 ```
 
 (se aparecer algum erro como "unable to get image...", verifique se o serviço do docker está ativo)
